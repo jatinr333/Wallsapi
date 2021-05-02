@@ -4,15 +4,14 @@
   { 
     
     "name" : "Abstract",
-    "image" : "https://images.wallpaperscraft.com/image/clouds_dark_sky_155873_1440x2560.jpg",
-    
+    "image" : "https://images.wallpaperscraft.com/image/clouds_dark_sky_155873_1440x2560.jpg", 
     "url":"https://raw.githubusercontent.com/jatinr333/Wallsapi/main/dark/darkwalls.json"
   
   } , { 
     
     "name" : "Amoled",
     "image" : "https://images.wallpaperscraft.com/image/clouds_dark_sky_155873_1440x2560.jpg",
-   "url":"https://raw.githubusercontent.com/jatinr333/Wallsapi/main/dark/darkwalls.json"
+     "url" : "https://raw.githubusercontent.com/jatinr333/Wallsapi/main/dark/darkwalls.json"
   
   }
 ]
