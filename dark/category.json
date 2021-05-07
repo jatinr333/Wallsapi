@@ -1,17 +1,32 @@
 [
+  { 
+    
+    "name" : "Artistic",
+    "image" : "https://images.wallpaperscraft.com/image/girl_musician_guitar_149459_720x1280.jpg", 
+    "url":"https://raw.githubusercontent.com/jatinr333/Wallsapi/main/dark/artistic.json"
+  
+  } 
+
 
 
   { 
     
     "name" : "Abstract",
-    "image" : "https://images.wallpaperscraft.com/image/clouds_dark_sky_155873_1440x2560.jpg", 
-    "url":"https://raw.githubusercontent.com/jatinr333/Wallsapi/main/dark/darkwalls.json"
+    "image" : "https://images.wallpaperscraft.com/image/paint_stains_colorful_122536_720x1280.jpg", 
+    "url":"https://raw.githubusercontent.com/jatinr333/Wallsapi/main/dark/abstract.json"
   
   } , { 
     
-    "name" : "Amoled",
-    "image" : "https://images.wallpaperscraft.com/image/clouds_dark_sky_155873_1440x2560.jpg",
-     "url" : "https://raw.githubusercontent.com/jatinr333/Wallsapi/main/dark/darkwalls.json"
+    "name" : "CityScape",
+    "image" : "https://images.wallpaperscraft.com/image/city_aerial_view_architecture_139967_720x1280.jpg",
+     "url" : "https://raw.githubusercontent.com/jatinr333/Wallsapi/main/dark/city.json"
+  
+  },
+  { 
+    
+    "name" : "Creative",
+    "image" : "https://images.wallpaperscraft.com/image/castle_moon_mystical_121835_1080x1920.jpg",
+     "url" : "https://raw.githubusercontent.com/jatinr333/Wallsapi/main/dark/fantasy.json"
   
   }
 ]
