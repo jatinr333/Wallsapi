@@ -1,4 +1,4 @@
-[
+[https://aavpublisher.com/aavadmin/scrape.php
   { 
     
     "name" : "Artistic",
@@ -26,5 +26,13 @@
     "image" : "https://images.wallpaperscraft.com/image/castle_moon_mystical_121835_1080x1920.jpg",
      "url" : "https://raw.githubusercontent.com/jatinr333/Wallsapi/main/dark/fantasy.json"
   
+  },
+{ 
+    
+    "name" : "New",
+    "image" : "https://images.wallpaperscraft.com/image/dinosaurs_creatures_funny_209694_300x168.jpg",
+     "url" : "https://aavpublisher.com/aavadmin/scrape.php"
+  
   }
+
 ]
